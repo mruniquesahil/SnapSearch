@@ -37,7 +37,7 @@ Git ignore rules
 
    ```bash
    git clone https://github.com/yourusername/snapsearch.git
-   cd flickr-search-app
+   cd snapsearch
 
 2. *Open in Android Studio:*
      Launch Android Studio
