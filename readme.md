@@ -1,4 +1,4 @@
-# 📸 Flickr Search App
+# 📸  SnapSearch App
 
 A simple Android application that allows users to search for photos using the [Flickr API](https://www.flickr.com/services/api/). Built using Java and Android SDK with Gradle for dependency management.
 
@@ -36,7 +36,7 @@ Git ignore rules
 1. *Clone the repository:*
 
    ```bash
-   git clone https://github.com/yourusername/flickr-search-app.git
+   git clone https://github.com/yourusername/snapsearch.git
    cd flickr-search-app
 
 2. *Open in Android Studio:*
