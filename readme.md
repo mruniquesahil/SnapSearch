@@ -49,7 +49,7 @@ Git ignore rules
      Create an app and obtain your API key
      Add the API key to your project (typically in a constants file or via gradle.properties)
 
-4. Build and Run:
+4. *Build and Run:*
      Connect an Android device or start an emulator
      Click Run in Android Studio
   
