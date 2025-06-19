@@ -51,5 +51,5 @@ Git ignore rules
 
 4. *Build and Run:*
      Connect an Android device or start an emulator -->
-     Click Run in Android Studio -->
+     Click Run in Android Studio 
   
