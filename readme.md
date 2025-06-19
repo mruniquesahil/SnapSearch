@@ -1,16 +1,16 @@
-# ?? Flickr Search App
+# ğŸ“¸ Flickr Search App
 
 A simple Android application that allows users to search for photos using the [Flickr API](https://www.flickr.com/services/api/). Built using Java and Android SDK with Gradle for dependency management.
 
-## ?? Features
+## ğŸš€ Features
 
-- ?? Search Flickr for public images by keyword
-- ?? Display images in a grid layout
-- ?? Optimized for mobile use
-- ?? Asynchronous image fetching
-- ?? Clean project structure
+- ğŸ” Search Flickr for public images by keyword
+- ğŸ–¼ Display images in a grid layout
+- ğŸ“± Optimized for mobile use
+- ğŸ“¡ Asynchronous image fetching
+- ğŸ“¦ Clean project structure
 
-## ?? Technologies Used
+## ğŸ›  Technologies Used
 
 - Java
 - Android SDK
@@ -18,11 +18,11 @@ A simple Android application that allows users to search for photos using the [F
 - Gradle
 - Retrofit / Picasso / Glide (depending on what you're using)
 
-## ?? Project Structure
+## ğŸ“‚ Project Structure
 
-ÃÄÄ app/                   # Source code of the application ÃÄÄ .idea/                 # IDE configuration files ÃÄÄ gradle/wrapper/        # Gradle wrapper files ÃÄÄ build.gradle           # Top-level build configuration ÃÄÄ gradle.properties      # Project-wide Gradle settings ÃÄÄ settings.gradle        # Gradle settings ÃÄÄ gradlew                # Unix Gradle wrapper script ÃÄÄ gradlew.bat            # Windows Gradle wrapper script ÃÄÄ .gitignore             # Git ignore rules
+â”œâ”€â”€ app/                   # Source code of the application â”œâ”€â”€ .idea/                 # IDE configuration files â”œâ”€â”€ gradle/wrapper/        # Gradle wrapper files â”œâ”€â”€ build.gradle           # Top-level build configuration â”œâ”€â”€ gradle.properties      # Project-wide Gradle settings â”œâ”€â”€ settings.gradle        # Gradle settings â”œâ”€â”€ gradlew                # Unix Gradle wrapper script â”œâ”€â”€ gradlew.bat            # Windows Gradle wrapper script â”œâ”€â”€ .gitignore             # Git ignore rules
 
-## ?? Setup & Installation
+## ğŸ”§ Setup & Installation
 
 1. *Clone the repository:*
 
@@ -54,4 +54,4 @@ Add the API key to your project (typically in a constants file or via gradle.pro
 
 Connect an Android device or start an emulator
 
-Click Run ? in Android Studio
+Click Run â–¶ in Android Studio
