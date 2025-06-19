@@ -20,7 +20,16 @@ A simple Android application that allows users to search for photos using the [F
 
 ## 📂 Project Structure
 
-├── app/                   # Source code of the application ├── .idea/                 # IDE configuration files ├── gradle/wrapper/        # Gradle wrapper files ├── build.gradle           # Top-level build configuration ├── gradle.properties      # Project-wide Gradle settings ├── settings.gradle        # Gradle settings ├── gradlew                # Unix Gradle wrapper script ├── gradlew.bat            # Windows Gradle wrapper script ├── .gitignore             # Git ignore rules
+├── app/                   
+Source code of the application ├── .idea/                 
+IDE configuration files ├── gradle/wrapper/        
+Gradle wrapper files ├── build.gradle           
+Top-level build configuration ├── gradle.properties      
+Project-wide Gradle settings ├── settings.gradle        
+Gradle settings ├── gradlew                
+Unix Gradle wrapper script ├── gradlew.bat           
+Windows Gradle wrapper script ├── .gitignore             
+Git ignore rules
 
 ## 🔧 Setup & Installation
 
@@ -30,28 +39,17 @@ A simple Android application that allows users to search for photos using the [F
    git clone https://github.com/yourusername/flickr-search-app.git
    cd flickr-search-app
 
-Open in Android Studio:
+2. *Open in Android Studio:*
+     Launch Android Studio
+     Select Open an existing project
+     Navigate to the cloned repository
 
-Launch Android Studio
-
-Select Open an existing project
-
-Navigate to the cloned repository
-
-
-
-3. Get a Flickr API Key:
-
-Go to Flickr App Garden
-
-Create an app and obtain your API key
-
-Add the API key to your project (typically in a constants file or via gradle.properties)
-
-
+3. *Get a Flickr API Key:*
+     Go to Flickr App Garden
+     Create an app and obtain your API key
+     Add the API key to your project (typically in a constants file or via gradle.properties)
 
 4. Build and Run:
-
-Connect an Android device or start an emulator
-
-Click Run ▶ in Android Studio
+     Connect an Android device or start an emulator
+     Click Run in Android Studio
+  
